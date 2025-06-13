@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Tanguy 👋
 
-<!--
-**Tanguy-Trotin/Tanguy-Trotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Fullstack Developer** with a focus on **CRM** and modern web applications.  
+I love building robust solutions with technologies like **Scala**, **React**, and **Angular**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I work across the web, from backend APIs to slick user interfaces
+- 💡 I enjoy blending the power of functional programming with the creativity of frontend development
+- ❄️ When I'm not coding, you'll find me on the ice rink — ice skating is my favorite way to unwind!
+
+## 🛠️ Tech Stack
+
+- **Languages:** Scala, JavaScript/TypeScript
+- **Frameworks:** React, Angular
+- **CRM Experience:** Deep experience with CRM integration and customization
+
+## 🌟 Featured Projects
+
+Check out my pinned projects below for a look at what I've been working on!
+
+## 📫 Connect with Me
+
+You'll find all my links right here on my profile. Let's connect!
+
+---
+
+*“Keep your code cool — and your skates even cooler!”*
