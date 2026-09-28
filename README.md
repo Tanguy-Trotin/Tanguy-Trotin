@@ -25,4 +25,4 @@ You'll find all my links right here on my profile. Let's connect!
 
 ---
 
-*“Keep your code cool — and your skates even cooler!”*
+*“Keep your code cool and your skates even cooler!”*
